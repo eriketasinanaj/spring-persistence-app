@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: EAppPersistence
+Implementation-Version: 0.0.1-RELEASE
+Built-By: Edvin Hysenllari
+Implementation-Vendor-Id: com.eapp.EAppPersistence
+Build-Jdk: 1.8.0_172
+Implementation-URL: http://projects.spring.io/spring-boot/EAppPersiste
+ nce/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
